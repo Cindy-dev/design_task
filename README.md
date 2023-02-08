@@ -8,7 +8,7 @@ Design Screens:
 - Community Page
 - Dummy Screens(with text displayed)
 
-Please Note: The Podcast page can be accessed by clicking the "DIARY card"(color: Orange Card) found on the home page.
+Please Note: The Podcast page can be accessed by clicking the "DIARY CARD"(Color: Orange Card) found on the home page.
 
 
 IOS ScreenShots
