@@ -1,16 +1,30 @@
 # faramove_test
 
-A new Flutter project.
+This is a design task for Faramove.
 
-## Getting Started
+Design Screens:
+- HomePage
+- Podcast
+- Community Page
+- Dummy Screens(with text displayed)
 
-This project is a starting point for a Flutter application.
+Please Note: The Podcast page can be accessed by clicking the "DIARY card"(color: Orange Card) found on the home page.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+IOS ScreenShots
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p align="center">
+  <img src="asset\images\screenshots\ios1.png" width="350" title = "HomePage">
+  <img src="asset\images\screenshots\ios2.png" width="350" title = "Community Page">
+  <img src="asset\images\screenshots\ios3.png" width="350" title = "Podcast">
+</p>
+
+
+Android Screenshots
+
+<p align="center">
+  <img src="asset\images\screenshots\android1.png" width="350" title = "HomePage">
+  <img src="asset\images\screenshots\android2.png" width="350" title = "Community Page">
+  <img src="asset\images\screenshots\android3.png" width="350" title = "Podcast">
+</p>
+

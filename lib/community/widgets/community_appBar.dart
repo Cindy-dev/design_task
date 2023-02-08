@@ -9,7 +9,8 @@ class CommunityAppBar extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Padding(
+    return Container(
+      color: AppColors.white.withOpacity(0.95),
       padding: const EdgeInsets.only(top: 58, left: 20, right: 23, bottom: 40),
       child: Row(
         mainAxisAlignment: MainAxisAlignment.spaceBetween,

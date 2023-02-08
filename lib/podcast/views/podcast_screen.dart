@@ -4,7 +4,6 @@ import 'package:faramove_test/podcast/widgets/podcast_appbar.dart';
 import 'package:faramove_test/utilities/app_colors.dart';
 import 'package:faramove_test/utilities/device_size.dart';
 import 'package:flutter/material.dart';
-
 import '../../utilities/textWidget.dart';
 
 class PodcastScreen extends StatelessWidget {
@@ -91,7 +90,7 @@ class PodcastScreen extends StatelessWidget {
             const Spacer(),
             Container(
               padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 15),
-              height: context.screenHeight() / 14,
+              height: context.screenHeight() / 13,
               decoration: BoxDecoration(
                 color: AppColors.darkBlue,
                 borderRadius: BorderRadius.circular(10),

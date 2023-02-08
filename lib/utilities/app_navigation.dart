@@ -7,8 +7,8 @@ navigatePush(BuildContext context, Widget widget) {
 }
 
 navigatePushIos(BuildContext context, Widget widget) {
-  return Navigator.push(
-      context, CupertinoPageRoute(builder: (context) => widget));
+  return Navigator.push(context,
+      CupertinoPageRoute(builder: (context) => widget, fullscreenDialog: true));
 }
 
 navigatePop(BuildContext context) {
