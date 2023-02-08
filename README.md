@@ -1,6 +1,6 @@
-# faramove_test
+# FARAMOVE_test
 
-This is a design task for Faramove.
+This is a design task for FARAMOVE.
 
 Design Screens:
 - HomePage
